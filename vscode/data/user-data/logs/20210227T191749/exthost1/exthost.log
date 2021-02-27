@@ -1,0 +1,52 @@
+[2021-02-27 19:18:00.423] [exthost] [info] extension host started
+[2021-02-27 19:18:00.623] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-02-27 19:18:00.623] [exthost] [info] ExtensionService#loadCommonJSModule file:///h:/injection/vscode/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-02-27 19:18:00.734] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-02-27 19:18:00.735] [exthost] [info] ExtensionService#loadCommonJSModule file:///h:/injection/vscode/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-02-27 19:18:00.802] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2021-02-27 19:18:00.802] [exthost] [info] ExtensionService#loadCommonJSModule file:///h:/injection/vscode/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-02-27 19:18:00.899] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-02-27 19:18:00.899] [exthost] [info] ExtensionService#loadCommonJSModule file:///h:/injection/vscode/resources/app/extensions/git/dist/main
+[2021-02-27 19:18:01.017] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2021-02-27 19:18:01.018] [exthost] [info] ExtensionService#loadCommonJSModule file:///h:/injection/vscode/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-02-27 19:18:01.055] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2021-02-27 19:18:01.055] [exthost] [info] ExtensionService#loadCommonJSModule file:///h:/injection/vscode/resources/app/extensions/search-result/dist/extension.js
+[2021-02-27 19:18:01.287] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-02-27 19:18:01.288] [exthost] [info] ExtensionService#loadCommonJSModule file:///h:/injection/vscode/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-02-27 19:18:01.595] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-02-27 19:18:01.595] [exthost] [info] ExtensionService#loadCommonJSModule file:///h:/injection/vscode/resources/app/extensions/github-authentication/dist/extension.js
+[2021-02-27 19:18:02.376] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-02-27 19:18:02.376] [exthost] [info] ExtensionService#loadCommonJSModule file:///h:/injection/vscode/resources/app/extensions/github/dist/extension.js
+[2021-02-27 19:18:02.404] [exthost] [info] eager extensions activated
+[2021-02-27 19:18:02.406] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-containers","_lower":"ms-vscode-remote.remote-containers"},"activationEvent":"onStartupFinished"}
+[2021-02-27 19:18:02.406] [exthost] [info] ExtensionService#loadCommonJSModule file:///h:/injection/vscode/data/extensions/ms-vscode-remote.remote-containers-0.155.1/dist/extension
+[2021-02-27 19:18:02.508] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-wsl","_lower":"ms-vscode-remote.remote-wsl"},"activationEvent":"onStartupFinished"}
+[2021-02-27 19:18:02.508] [exthost] [info] ExtensionService#loadCommonJSModule file:///h:/injection/vscode/data/extensions/ms-vscode-remote.remote-wsl-0.52.0/dist/extension
+[2021-02-27 19:21:05.928] [exthost] [info] extension host started
+[2021-02-27 19:21:07.335] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-02-27 19:21:07.335] [exthost] [info] ExtensionService#loadCommonJSModule file:///h:/injection/vscode/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-02-27 19:21:07.433] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-02-27 19:21:07.434] [exthost] [info] ExtensionService#loadCommonJSModule file:///h:/injection/vscode/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-02-27 19:21:07.469] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2021-02-27 19:21:07.469] [exthost] [info] ExtensionService#loadCommonJSModule file:///h:/injection/vscode/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-02-27 19:21:07.519] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-02-27 19:21:07.519] [exthost] [info] ExtensionService#loadCommonJSModule file:///h:/injection/vscode/resources/app/extensions/git/dist/main
+[2021-02-27 19:21:07.606] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2021-02-27 19:21:07.606] [exthost] [info] ExtensionService#loadCommonJSModule file:///h:/injection/vscode/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-02-27 19:21:07.650] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2021-02-27 19:21:07.650] [exthost] [info] ExtensionService#loadCommonJSModule file:///h:/injection/vscode/resources/app/extensions/search-result/dist/extension.js
+[2021-02-27 19:21:07.670] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":true,"extensionId":{"value":"ms-vscode.cpptools","_lower":"ms-vscode.cpptools"},"activationEvent":"*"}
+[2021-02-27 19:21:07.671] [exthost] [info] ExtensionService#loadCommonJSModule file:///h:/injection/vscode/data/extensions/ms-vscode.cpptools-1.2.2/dist/main
+[2021-02-27 19:21:08.679] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-02-27 19:21:08.679] [exthost] [info] ExtensionService#loadCommonJSModule file:///h:/injection/vscode/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-02-27 19:21:08.852] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-02-27 19:21:08.852] [exthost] [info] ExtensionService#loadCommonJSModule file:///h:/injection/vscode/resources/app/extensions/github-authentication/dist/extension.js
+[2021-02-27 19:21:17.338] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-containers","_lower":"ms-vscode-remote.remote-containers"},"activationEvent":"onStartupFinished"}
+[2021-02-27 19:21:17.338] [exthost] [info] ExtensionService#loadCommonJSModule file:///h:/injection/vscode/data/extensions/ms-vscode-remote.remote-containers-0.155.1/dist/extension
+[2021-02-27 19:21:17.836] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-wsl","_lower":"ms-vscode-remote.remote-wsl"},"activationEvent":"onStartupFinished"}
+[2021-02-27 19:21:17.836] [exthost] [info] ExtensionService#loadCommonJSModule file:///h:/injection/vscode/data/extensions/ms-vscode-remote.remote-wsl-0.52.0/dist/extension
+[2021-02-27 19:22:10.552] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-02-27 19:22:10.553] [exthost] [info] ExtensionService#loadCommonJSModule file:///h:/injection/vscode/resources/app/extensions/github/dist/extension.js
+[2021-02-27 19:22:10.570] [exthost] [info] eager extensions activated
+[2021-02-27 19:44:41.149] [exthost] [info] ExtensionService#_doActivateExtension usernamehw.errorlens {"startup":false,"extensionId":{"value":"usernamehw.errorlens","_lower":"usernamehw.errorlens"},"activationEvent":"onStartupFinished"}
+[2021-02-27 19:44:41.149] [exthost] [info] ExtensionService#loadCommonJSModule file:///h:/injection/vscode/data/extensions/usernamehw.errorlens-3.2.4/dist/extension

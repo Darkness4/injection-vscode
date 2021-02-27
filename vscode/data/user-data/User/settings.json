@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "onFocusChange",
+    "editor.formatOnSave": true,
+    "editor.renderWhitespace": "all",
+    "C_Cpp.clang_format_fallbackStyle": "Google"
+}

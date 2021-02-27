@@ -1,0 +1,9 @@
+[2021-02-02 01:03:14.190] [renderer3] [error] [remote-connection] An error occurred in the very first connect attempt, it will be treated as a permanent error! Error:
+[2021-02-02 01:03:14.190] [renderer3] [error] Error: Connecting was canceled
+    at e.resolveAuthority (file:///D:/nguye/Desktop/Projets/CPP/injection/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:4885:869)
+    at async F._scanAndHandleExtensions (file:///D:/nguye/Desktop/Projets/CPP/injection/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:5441:363)
+    at async F._initialize (file:///D:/nguye/Desktop/Projets/CPP/injection/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:5427:584)
+[2021-02-02 01:03:14.234] [renderer3] [error] Connecting was canceled: Error: Connecting was canceled
+    at e.resolveAuthority (file:///D:/nguye/Desktop/Projets/CPP/injection/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:4885:869)
+    at async F._scanAndHandleExtensions (file:///D:/nguye/Desktop/Projets/CPP/injection/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:5441:363)
+    at async F._initialize (file:///D:/nguye/Desktop/Projets/CPP/injection/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:5427:584)

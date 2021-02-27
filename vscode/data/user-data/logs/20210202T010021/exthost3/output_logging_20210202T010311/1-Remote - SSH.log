@@ -1,0 +1,32 @@
+[01:03:11.884] Log Level: 2
+[01:03:11.889] remote-ssh-nightly@2021.2.901
+[01:03:11.889] win32 x64
+[01:03:11.891] SSH Resolver called for "ssh-remote+10.0.2.15", attempt 1
+[01:03:11.891] "remote.SSH.useLocalServer": false
+[01:03:11.892] "remote.SSH.showLoginTerminal": false
+[01:03:11.892] "remote.SSH.remotePlatform": {}
+[01:03:11.892] "remote.SSH.sshPath": undefined
+[01:03:11.892] "remote.SSH.sshConfigurationFile": undefined
+[01:03:11.892] "remote.SSH.useFlock": true
+[01:03:11.893] "remote.SSH.lockfilesInTmp": false
+[01:03:11.893] "remote.SSH.localServerDownload": auto
+[01:03:11.893] "remote.SSH.remoteServerListenOnSocket": false
+[01:03:11.893] "remote.SSH.showLoginTerminal": false
+[01:03:11.893] "remote.SSH.defaultExtensions": []
+[01:03:11.894] SSH Resolver called for host: 10.0.2.15
+[01:03:11.894] Setting up SSH remote "10.0.2.15"
+[01:03:11.933] Using commit id "ea3859d4ba2f3e577a159bc91e3074c5d85c0523" and quality "stable" for server
+[01:03:11.942] Install and start server if needed
+[01:03:13.774] getPlatformForHost was canceled
+[01:03:13.782] Resolver error: Error: Connecting was canceled
+	at Function.Canceled (d:\nguye\Desktop\Projets\CPP\injection\vscode\data\extensions\ms-vscode-remote.remote-ssh-nightly-2021.2.901\out\extension.js:1:64226)
+	at d:\nguye\Desktop\Projets\CPP\injection\vscode\data\extensions\ms-vscode-remote.remote-ssh-nightly-2021.2.901\out\extension.js:1:310782
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+	at async Object.t.withShowDetailsEvent (d:\nguye\Desktop\Projets\CPP\injection\vscode\data\extensions\ms-vscode-remote.remote-ssh-nightly-2021.2.901\out\extension.js:1:405859)
+	at async Object.t.resolve (d:\nguye\Desktop\Projets\CPP\injection\vscode\data\extensions\ms-vscode-remote.remote-ssh-nightly-2021.2.901\out\extension.js:1:314523)
+	at async d:\nguye\Desktop\Projets\CPP\injection\vscode\data\extensions\ms-vscode-remote.remote-ssh-nightly-2021.2.901\out\extension.js:127:110431
+[01:03:13.791] ------
+
+
+
+

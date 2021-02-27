@@ -1,0 +1,22 @@
+{
+    "telemetry.machineId": "2e355e7ebe34eeed2cef03433e8865c5344d47083d768db01a7e106e0e6cc292",
+    "openedPathsList": {
+        "workspaces3": [],
+        "files2": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
+    "windowsState": {
+        "lastActiveWindow": {
+            "backupPath": "H:\\injection\\vscode\\data\\user-data\\Backups\\1612220505812",
+            "uiState": {
+                "mode": 1,
+                "x": 767,
+                "y": 823,
+                "width": 1024,
+                "height": 768
+            }
+        },
+        "openedWindows": []
+    }
+}

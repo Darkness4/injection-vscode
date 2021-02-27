@@ -1,0 +1,42 @@
+[2021-02-27 19:18:00.207] [sharedprocess] [info] main {"machineId":"2e355e7ebe34eeed2cef03433e8865c5344d47083d768db01a7e106e0e6cc292","windowId":2}
+[2021-02-27 19:18:03.540] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-ssh-edit-nightly
+[2021-02-27 19:18:03.540] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-ssh-nightly
+[2021-02-27 19:18:03.541] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2021-02-27 19:18:11.760] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-ssh-edit-nightly undefined
+[2021-02-27 19:18:17.655] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-ssh-nightly undefined
+[2021-02-27 19:18:17.660] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools undefined
+[2021-02-27 19:18:18.195] [sharedprocess] [info] Extracted extension to H:\injection\vscode\data\extensions\.ms-vscode-remote.remote-ssh-edit-nightly-2021.2.35460: ms-vscode-remote.remote-ssh-edit-nightly
+[2021-02-27 19:18:18.219] [sharedprocess] [info] Renamed to H:\injection\vscode\data\extensions\ms-vscode-remote.remote-ssh-edit-nightly-2021.2.35460
+[2021-02-27 19:18:18.265] [sharedprocess] [info] Installation completed. ms-vscode-remote.remote-ssh-edit-nightly
+[2021-02-27 19:18:18.380] [sharedprocess] [info] Extensions installed successfully: ms-vscode-remote.remote-ssh-edit-nightly
+[2021-02-27 19:18:31.052] [sharedprocess] [info] Extracted extension to H:\injection\vscode\data\extensions\.ms-vscode-remote.remote-ssh-nightly-2021.2.35461: ms-vscode-remote.remote-ssh-nightly
+[2021-02-27 19:18:33.976] [sharedprocess] [info] Renamed to H:\injection\vscode\data\extensions\ms-vscode-remote.remote-ssh-nightly-2021.2.35461
+[2021-02-27 19:18:35.443] [sharedprocess] [info] Installation completed. ms-vscode-remote.remote-ssh-nightly
+[2021-02-27 19:18:40.278] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-02-27 19:18:54.814] [sharedprocess] [info] Extensions installed successfully: ms-vscode-remote.remote-ssh-nightly
+[2021-02-27 19:19:32.427] [sharedprocess] [info] Uninstalling extension: ms-vscode-remote.remote-ssh-nightly
+[2021-02-27 19:19:32.435] [sharedprocess] [info] Uninstalling extension: ms-vscode-remote.remote-ssh-edit-nightly
+[2021-02-27 19:19:51.488] [sharedprocess] [info] Successfully uninstalled extension: ms-vscode-remote.remote-ssh-edit-nightly
+[2021-02-27 19:19:51.729] [sharedprocess] [info] Successfully uninstalled extension: ms-vscode-remote.remote-ssh-nightly
+[2021-02-27 19:19:59.808] [sharedprocess] [info] Extracted extension to H:\injection\vscode\data\extensions\.ms-vscode.cpptools-1.2.2: ms-vscode.cpptools
+[2021-02-27 19:20:01.272] [sharedprocess] [info] Renamed to H:\injection\vscode\data\extensions\ms-vscode.cpptools-1.2.2
+[2021-02-27 19:20:01.294] [sharedprocess] [info] Installation completed. ms-vscode.cpptools
+[2021-02-27 19:20:01.379] [sharedprocess] [info] Extensions installed successfully: ms-vscode.cpptools
+[2021-02-27 19:20:16.993] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-ssh
+[2021-02-27 19:20:20.821] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-ssh undefined
+[2021-02-27 19:20:29.452] [sharedprocess] [info] Extracted extension to H:\injection\vscode\data\extensions\.ms-vscode-remote.remote-ssh-0.64.0: ms-vscode-remote.remote-ssh
+[2021-02-27 19:20:30.880] [sharedprocess] [info] Renamed to H:\injection\vscode\data\extensions\ms-vscode-remote.remote-ssh-0.64.0
+[2021-02-27 19:20:32.340] [sharedprocess] [info] Installation completed. ms-vscode-remote.remote-ssh
+[2021-02-27 19:20:34.208] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-ssh-edit
+[2021-02-27 19:20:38.925] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-ssh-edit undefined
+[2021-02-27 19:20:43.802] [sharedprocess] [info] Extracted extension to H:\injection\vscode\data\extensions\.ms-vscode-remote.remote-ssh-edit-0.64.0: ms-vscode-remote.remote-ssh-edit
+[2021-02-27 19:20:43.807] [sharedprocess] [info] Renamed to H:\injection\vscode\data\extensions\ms-vscode-remote.remote-ssh-edit-0.64.0
+[2021-02-27 19:20:43.822] [sharedprocess] [info] Installation completed. ms-vscode-remote.remote-ssh-edit
+[2021-02-27 19:20:43.851] [sharedprocess] [info] Extensions installed successfully: ms-vscode-remote.remote-ssh-edit
+[2021-02-27 19:20:43.851] [sharedprocess] [info] Extensions installed successfully: ms-vscode-remote.remote-ssh
+[2021-02-27 19:44:36.459] [sharedprocess] [info] Installing extension: usernamehw.errorlens
+[2021-02-27 19:44:38.642] [sharedprocess] [info] Downloaded extension: usernamehw.errorlens undefined
+[2021-02-27 19:44:40.984] [sharedprocess] [info] Extracted extension to H:\injection\vscode\data\extensions\.usernamehw.errorlens-3.2.4: usernamehw.errorlens
+[2021-02-27 19:44:40.989] [sharedprocess] [info] Renamed to H:\injection\vscode\data\extensions\usernamehw.errorlens-3.2.4
+[2021-02-27 19:44:41.008] [sharedprocess] [info] Installation completed. usernamehw.errorlens
+[2021-02-27 19:44:41.041] [sharedprocess] [info] Extensions installed successfully: usernamehw.errorlens

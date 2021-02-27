@@ -1,0 +1,15 @@
+[2021-02-02 01:03:11.738] [exthost] [info] extension host started
+[2021-02-02 01:03:11.757] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-ssh-nightly {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-ssh-nightly","_lower":"ms-vscode-remote.remote-ssh-nightly"},"activationEvent":"onResolveRemoteAuthority:ssh-remote"}
+[2021-02-02 01:03:11.757] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/nguye/Desktop/Projets/CPP/injection/vscode/data/extensions/ms-vscode-remote.remote-ssh-nightly-2021.2.901/out/extension
+[2021-02-02 01:03:14.265] [exthost] [info] eager extensions activated
+[2021-02-02 01:03:14.335] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-02-02 01:03:14.336] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/nguye/Desktop/Projets/CPP/injection/vscode/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-02-02 01:03:14.351] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-containers","_lower":"ms-vscode-remote.remote-containers"},"activationEvent":"onStartupFinished"}
+[2021-02-02 01:03:14.352] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/nguye/Desktop/Projets/CPP/injection/vscode/data/extensions/ms-vscode-remote.remote-containers-0.155.1/dist/extension
+[2021-02-02 01:03:14.395] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-wsl","_lower":"ms-vscode-remote.remote-wsl"},"activationEvent":"onStartupFinished"}
+[2021-02-02 01:03:14.395] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/nguye/Desktop/Projets/CPP/injection/vscode/data/extensions/ms-vscode-remote.remote-wsl-0.52.0/dist/extension
+[2021-02-02 01:03:14.963] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-02-02 01:03:14.963] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/nguye/Desktop/Projets/CPP/injection/vscode/resources/app/extensions/github-authentication/dist/extension.js
+[2021-02-02 01:03:17.993] [exthost] [info] extension host started
+[2021-02-02 01:03:18.011] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-ssh-nightly {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-ssh-nightly","_lower":"ms-vscode-remote.remote-ssh-nightly"},"activationEvent":"onResolveRemoteAuthority:ssh-remote"}
+[2021-02-02 01:03:18.011] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/nguye/Desktop/Projets/CPP/injection/vscode/data/extensions/ms-vscode-remote.remote-ssh-nightly-2021.2.901/out/extension

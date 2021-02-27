@@ -1,0 +1,19 @@
+[01:03:18.169] Log Level: 2
+[01:03:18.176] remote-ssh-nightly@2021.2.901
+[01:03:18.176] win32 x64
+[01:03:18.180] SSH Resolver called for "ssh-remote+10.0.2.15", attempt 1
+[01:03:18.184] "remote.SSH.useLocalServer": false
+[01:03:18.185] "remote.SSH.showLoginTerminal": false
+[01:03:18.185] "remote.SSH.remotePlatform": {}
+[01:03:18.185] "remote.SSH.sshPath": undefined
+[01:03:18.186] "remote.SSH.sshConfigurationFile": undefined
+[01:03:18.187] "remote.SSH.useFlock": true
+[01:03:18.187] "remote.SSH.lockfilesInTmp": false
+[01:03:18.188] "remote.SSH.localServerDownload": auto
+[01:03:18.188] "remote.SSH.remoteServerListenOnSocket": false
+[01:03:18.189] "remote.SSH.showLoginTerminal": false
+[01:03:18.189] "remote.SSH.defaultExtensions": []
+[01:03:18.190] SSH Resolver called for host: 10.0.2.15
+[01:03:18.190] Setting up SSH remote "10.0.2.15"
+[01:03:18.231] Using commit id "ea3859d4ba2f3e577a159bc91e3074c5d85c0523" and quality "stable" for server
+[01:03:18.238] Install and start server if needed
